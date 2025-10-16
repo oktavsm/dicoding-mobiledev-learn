@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Learn Mobile Dev</string>
+    <string name="input_panjang">Panjang:</string>
+    <string name="hint_panjang">Masukkan Panjang</string>
+    <string name="input_lebar">Lebar:</string>
+    <string name="hint_lebar">Masukkan Lebar</string>
+    <string name="input_tinggi">Tinggi:</string>
+    <string name="hint_tinggi">Masukkan Tinggi</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil:</string>
+    <string name="aplikasi_menghitung_luas_dan_volume">Aplikasi Menghitung Luas dan Volume</string>
+    <string name="hitung_luas">Hitung Luas</string>
+    <string name="hitung_volume">Hitung Volume</string>
+    <string name="buka_calculator">Buka Calculator</string>
+    <string name="hitung_input">Hitung</string>
+    <string name="oktavianus_samuel">Oktavianus Samuel</string>
+    <string name="menghitung_luas_persegi">Menghitung Luas Persegi</string>
+    <string name="masukkan_panjang">Masukkan Panjang:</string>
+    <string name="masukkan_lebar">Masukkan Lebar:</string>
+    <string name="your_name">your name</string>
 </resources>
